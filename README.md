@@ -1,2 +1,3 @@
 # proyek-pbo-kelompok
  
+Poryek ini adalah proyek matakuliah Pemrograman Berorientasi Objek (PBO) yaitu membuat aplikasi peminjaman ruangan. Aplikasi peminjaman ruangan merupakan aplikasi yang akan dibangun yang berperan untuk membantu dalam melakukan peminjaman ruangan dengan mudah dan cepat tanpa harus pergi ke lokasi tempat peminjaman ruangan. Secara umum, aplikasi peminjaman ruangan akan memberikan informasi tentang info jadwal ruangan, apakah ruangan tertentu sudah dibooking atau tidak. Selain itu, palikasi peminjaman ruangan juga menyediakan fitur-fitur yang mudah dipahamai dalam melakukan peminjaman ruangan.
